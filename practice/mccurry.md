@@ -2,7 +2,7 @@
 title: dasdfaPage
 description: 
 published: true
-date: 2022-02-02T21:54:19.068Z
+date: 2022-02-02T22:05:23.285Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T18:31:31.721Z
@@ -17,6 +17,14 @@ just start typing
 1. bullet 1
 2. bullet 3
 2. bullet 2
+
+some text![labquest-stop.png](/labquest/labquest-stop.png)
+
+
+| Table | test |
+|-------|------|
+| heay  | yoo  |
+|done    | doo |
 
 some text
 
