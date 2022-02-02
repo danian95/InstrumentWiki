@@ -2,7 +2,7 @@
 title: dasdfaPage
 description: 
 published: true
-date: 2022-02-02T21:41:22.249Z
+date: 2022-02-02T21:54:19.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T18:31:31.721Z
@@ -27,6 +27,9 @@ some text
 ### even smaller
 
 Testing the word wrapping.
-Hopefully this is all on one line.
+Hopefully this is all on one[^1] line.
+
+[^1]: A footnote that 
+  happens to be very long.
 
 Test a new paragraph here.
