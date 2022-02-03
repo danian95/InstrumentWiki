@@ -2,7 +2,7 @@
 title: Fluorescence Spectroscopy
 description: Experimental information for CHEM322
 published: true
-date: 2022-02-03T17:12:45.273Z
+date: 2022-02-03T17:14:40.193Z
 tags: spectroscopy, fluorescence, chem322
 editor: markdown
 dateCreated: 2022-02-03T17:09:55.946Z
@@ -142,10 +142,13 @@ spectrofluorometer.](/chem322/figures/fluorescence3.png)
 ### Chemicals
 
  - quinine stock solution (100.0 μg/mL) 
+ 
     > This must be prepared fresh every day and protected from light: obtain
     > 120.7 mg quinine sulfate dihydrate or 100.0 mg quinine, transfer to a 1 L
     > volumetric flask, add 50 mL of 1 M sulfuric acid and dilute to the mark
     > with water
+    {.is-info}
+    
  - quinine stock solution (10.0 μg/mL) prepared from above
  - unknown quinine solution made in 0.05 M H<sub>2</sub>SO<sub>4</sub> and stored in refrigerator
  - tonic water sample
@@ -153,7 +156,8 @@ spectrofluorometer.](/chem322/figures/fluorescence3.png)
  - solid NaBr or a 0.05 M NaBr solution
  - buffers (higher capacity than pH buffers) pH 1, 2, 3, 4, 5, 6
 
-### Procedures {.tabset}
+### Procedures
+### {.tabset}
 
 #### Calibration Curve 
 
