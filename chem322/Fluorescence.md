@@ -2,17 +2,15 @@
 title: Fluorescence Spectroscopy
 description: Experimental information for CHEM322
 published: true
-date: 2022-02-03T12:03:56.917Z
+date: 2022-02-03T17:12:45.273Z
 tags: spectroscopy, fluorescence, chem322
 editor: markdown
-dateCreated: 2022-02-03T12:00:26.258Z
+dateCreated: 2022-02-03T17:09:55.946Z
 ---
 
 # Fluorescence Spectroscopy and A Characterization of Quinine
 
-## Introduction
-
-### Theory
+## Theory
 Fluorescence is an analytically important emission process in which atoms or
 molecules are excited by the absorption of a photon.  After a very brief
 lifetime (a few nanoseconds), the excited species then relax to ground state
@@ -94,7 +92,7 @@ that the absorber concentration for fluorescence is lower than that of
 UV-visible spectroscopy. Fluorescence is nonlinear at a value of absorbance that
 is hardly on scale!
 
-### Quinine
+## Quinine
 Quinine (Figure 2, C<sub>20</sub>H<sub>24</sub>N<sub>2</sub>O<sub>2</sub>, 324.4
 g/mol) will be used to demonstrate the quantitation and detection abilities of
 fluorescence as well as the pH dependence and quenching effects on
@@ -112,7 +110,7 @@ radiation of a different wavelength.
 
 ![**Figure 2:** Structure of quinine.](/chem322/figures/fluorescence2.png)
 
-### Instrumentation 
+## Instrumentation 
 In order to separate emitted radiation from incident radiation, fluorescent
 measurements are made at right angles to the incident beam.  This is possible
 since incident radiation passes directly through the cell but fluorescence is
@@ -155,7 +153,7 @@ spectrofluorometer.](/chem322/figures/fluorescence3.png)
  - solid NaBr or a 0.05 M NaBr solution
  - buffers (higher capacity than pH buffers) pH 1, 2, 3, 4, 5, 6
 
-### Procedures
+### Procedures {.tabset}
 
 #### Calibration Curve 
 
