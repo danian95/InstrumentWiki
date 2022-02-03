@@ -2,7 +2,7 @@
 title: Fluorescence Spectroscopy
 description: Experimental information for CHEM322
 published: true
-date: 2022-02-03T17:14:40.193Z
+date: 2022-02-03T17:20:48.267Z
 tags: spectroscopy, fluorescence, chem322
 editor: markdown
 dateCreated: 2022-02-03T17:09:55.946Z
@@ -43,7 +43,8 @@ electron withdrawing groups such as carbonyls or -COOH inhibit fluorescence.
 
 ![**Figure 1:** Structures of phenolphthalein (nonfluorescent) and fluorescein
 (fluorescent).  Note bridging oxygen makes fluorescein more rigid preserving
-excited state energy for photon emission.](/chem322/figures/fluorescence1.png)
+excited state energy for photon emission.](/chem322/figures/fluorescence1.png =50%x)
+
 
 Temperature increases will cause more vibrational heat loss and subsequent loss
 of fluorescence as does a decrease in solvent viscosity.  The presence of heavy
@@ -108,7 +109,7 @@ involves inelastic collisions as electromagnetic energy is mixed with the
 rotational and vibrational energy of the colliding molecule resulting in
 radiation of a different wavelength.
 
-![**Figure 2:** Structure of quinine.](/chem322/figures/fluorescence2.png)
+![**Figure 2:** Structure of quinine.](/chem322/figures/fluorescence2.png =50%x)
 
 ## Instrumentation 
 In order to separate emitted radiation from incident radiation, fluorescent
@@ -129,7 +130,7 @@ will have higher throughput and thus better sensitivity (also the source,
 sample, and detector are closer together enhancing sensitivity).
 
 ![**Figure 3:** Block diagram of a typical fluorometer or
-spectrofluorometer.](/chem322/figures/fluorescence3.png)
+spectrofluorometer.](/chem322/figures/fluorescence3.png =50%x)
 
 ## Experimental
 
@@ -143,11 +144,11 @@ spectrofluorometer.](/chem322/figures/fluorescence3.png)
 
  - quinine stock solution (100.0 μg/mL) 
  
-    > This must be prepared fresh every day and protected from light: obtain
-    > 120.7 mg quinine sulfate dihydrate or 100.0 mg quinine, transfer to a 1 L
-    > volumetric flask, add 50 mL of 1 M sulfuric acid and dilute to the mark
-    > with water
-    {.is-info}
+  > This must be prepared fresh every day and protected from light: obtain
+  > 120.7 mg quinine sulfate dihydrate or 100.0 mg quinine, transfer to a 1 L
+  > volumetric flask, add 50 mL of 1 M sulfuric acid and dilute to the mark
+  > with water
+  {.is-info}
     
  - quinine stock solution (10.0 μg/mL) prepared from above
  - unknown quinine solution made in 0.05 M H<sub>2</sub>SO<sub>4</sub> and stored in refrigerator
@@ -157,7 +158,6 @@ spectrofluorometer.](/chem322/figures/fluorescence3.png)
  - buffers (higher capacity than pH buffers) pH 1, 2, 3, 4, 5, 6
 
 ### Procedures
-### {.tabset}
 
 #### Calibration Curve 
 
