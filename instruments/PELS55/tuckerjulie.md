@@ -2,7 +2,7 @@
 title: PE LS - 55 Fluorimeter: Tucker and Julie
 description: 
 published: true
-date: 2022-02-09T03:19:32.167Z
+date: 2022-02-09T03:25:41.103Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-09T02:55:29.570Z
@@ -26,11 +26,10 @@ A fluorimeter measures the fluorescence or light emitted by different fluorescin
  8. Open the sample compartment by pulling on the top of the light blue box. Notice that a nifty sample changer is installed! This allows for you to be able to load up to three samples at the same time (the fourth compartment is a little broken...). Remember to turn the knob after each scan! Don't be a rookie!
  9. Back on the Acquisition tab, make sure that the Scan Type is Emission. The Ex. and Em. slit widths should be set to a wavelength that allows for the whole spectra to be seen. Decreasing the slit width adjusts how much light is hitting the sample - more light makes the beaks broader. Decrease the slits to ensure your limits aren't exceeded for measurment! The scan speed is around 500 nm/min; if the spectra appears noisy, that means the speed is too fast. Ensure the Gain is set to Low; this is the numerical multiplier that attributes to the amplitude of the signal. 
 10. Click the play button and then Start. Click Stop when the window pops up after your scan.
-11. The data doesn't look great, but it's a practice! Find the maximum of the peak. This is your **Emission Maximum**.
-12. Change the Scan Type to Excitation and the Em. WL to the value you determined in the last step. You may need to decrease your slit widths to 2.5. Identify the maximum here. This is your **Excitation Maximum**.
+11. Find the maximum of the peak using the icon in the tool bar at the top of the page. Click the icon (a spectrum with a vertical line) and use the mouse to position the vertical line in the center of the peak of interest. This is your **Emission Maximum**. The Em WL will be displayed on the x axis.
+12. Change the Scan Type to Excitation and the Em. WL to the value you determined in the last step. You may need to further decrease your slit widths (2.5 nm is the minimum). Identify the maximum here. This is your **Excitation Maximum**.
 13. Finally, change the scan type back to Emission. This time, change your Ex. WL to the value you found in your previous step.
-14. When you are finished observing your spectra, close the program.
-15. If you are the last person to use the instrument, turn it off.
+14. When you are finished, save your data, close the program and turn off the machine. 
 
 
 
