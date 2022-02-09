@@ -2,7 +2,7 @@
 title: PE LS - 55 Fluorimeter: Tucker and Julie
 description: 
 published: true
-date: 2022-02-09T03:25:41.103Z
+date: 2022-02-09T03:31:50.588Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-09T02:55:29.570Z
@@ -29,7 +29,10 @@ A fluorimeter measures the fluorescence or light emitted by different fluorescin
 11. Find the maximum of the peak using the icon in the tool bar at the top of the page. Click the icon (a spectrum with a vertical line) and use the mouse to position the vertical line in the center of the peak of interest. This is your **Emission Maximum**. The Em WL will be displayed on the x axis.
 12. Change the Scan Type to Excitation and the Em. WL to the value you determined in the last step. You may need to further decrease your slit widths (2.5 nm is the minimum). Identify the maximum here. This is your **Excitation Maximum**.
 13. Finally, change the scan type back to Emission. This time, change your Ex. WL to the value you found in your previous step.
-14. When you are finished, save your data, close the program and turn off the machine. 
+14. If making a standard curve, click on the New Method icon, but this time use the FL Read aquistion module. This will allow you to obtain the intensity. 
+15. Adjust the parameters for the Em WL and Ex WL to the maximum wavelength you determined in the previous scans. Use the same slit width for both Em and Ex as used before, too.
+16. Now you may run your samples by clicking the play button and then Start. Make sure that if you have more than one sample in the carousel, you are spinning the knob each turn to correlate each sample! 
+17. When you are finished, save your data, close the program and turn off the machine. 
 
 
 
