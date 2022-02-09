@@ -2,7 +2,7 @@
 title: PE LS - 55 Fluorimeter: Tucker and Julie
 description: 
 published: true
-date: 2022-02-09T02:55:29.570Z
+date: 2022-02-09T02:58:15.436Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-09T02:55:29.570Z
@@ -32,10 +32,5 @@ Your content here
 13. When you are finished observing your spectra, close the program.
 14. If you are the last person to use the instrument, turn it off.
 
-### Questions
-
- 1. Why did I make you go back and forth between emission and excitation scans?
- 2. Is there anything interesting about the emission and excitation spectra? As in, how do the shapes of these spectra appear?
- 3. What does slit width do to the data? Why did you need to decrease it?
 
 
