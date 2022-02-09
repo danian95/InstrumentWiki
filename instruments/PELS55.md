@@ -2,7 +2,7 @@
 title: PE LS-55 Fluorimeter
 description: 
 published: true
-date: 2022-01-30T16:55:56.917Z
+date: 2022-02-09T02:53:48.151Z
 tags: spectroscopy, fluorescence
 editor: markdown
 dateCreated: 2022-01-19T15:37:26.258Z
