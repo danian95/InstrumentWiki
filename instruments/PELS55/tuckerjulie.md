@@ -2,7 +2,7 @@
 title: PE LS - 55 Fluorimeter: Tucker and Julie
 description: 
 published: true
-date: 2022-02-09T03:07:02.508Z
+date: 2022-02-09T03:18:50.813Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-09T02:55:29.570Z
@@ -23,13 +23,14 @@ A fluorimeter measures the fluorescence or light emitted by different fluorescin
  4. Click the New Method icon.
  5. Use the FL Scan Aquisition Module. Everything else should be set to None.
  6. Click the Manual Control Tab and make sure that Comport Com1 is checked. Everything else should be unchecked.
- 8. Open the sample compartment by pulling on the top of the light blue box. Notice that a nifty sample changer is installed! Make sure that the fluorescein sample is in the path of the light beam. If not, turn the knob to rotate the samples.
- 9. Back on the Acquisition tab, make sure that the Scan Type is Emission, The Ex. and Em. slit widths are set to 6 nm, the scan speed is 500 nm/min, and the Gain is set to Low. Click the play button and then Start. Click Stop when the window pops up after your scan.
-10. The data doesn't look great, but it's a practice! Find the maximum of the peak. This is your **Emission Maximum**.
-11. Change the Scan Type to Excitation and the Em. WL to the value you determined in the last step. You may need to decrease your slit widths to 2.5. Identify the maximum here. This is your **Excitation Maximum**.
-12. Finally, change the scan type back to Emission. This time, change your Ex. WL to the value you found in your previous step.
-13. When you are finished observing your spectra, close the program.
-14. If you are the last person to use the instrument, turn it off.
+ 8. Open the sample compartment by pulling on the top of the light blue box. Notice that a nifty sample changer is installed! This allows for you to be able to load up to three samples at the same time (the fourth compartment is a little broken...). Remember to turn the knob after each scan! Don't be a rookie!
+ 9. Back on the Acquisition tab, make sure that the Scan Type is Emission. The Ex. and Em. slit widths should be set to a wavelength that allows for the whole spectra to be seen. Decreasing the slit width adjusts how much light is hitting the sample - more light makes the beaks broader. Decrease the slits to ensure your limits aren't exceeded for measurment! The scan speed is around 500 nm/min; if the spectra appears noisy, that means the speed is too fast. Ensure the Gain is set to Low; this is the numerical multiplier that attributes to the amplitude of the signal. 
+10. Click the play button and then Start. Click Stop when the window pops up after your scan.
+11. The data doesn't look great, but it's a practice! Find the maximum of the peak. This is your **Emission Maximum**.
+12. Change the Scan Type to Excitation and the Em. WL to the value you determined in the last step. You may need to decrease your slit widths to 2.5. Identify the maximum here. This is your **Excitation Maximum**.
+13. Finally, change the scan type back to Emission. This time, change your Ex. WL to the value you found in your previous step.
+14. When you are finished observing your spectra, close the program.
+15. If you are the last person to use the instrument, turn it off.
 
 
 
