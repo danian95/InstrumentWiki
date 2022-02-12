@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-12T17:35:45.457Z
+date: 2022-02-12T19:40:28.719Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -13,9 +13,9 @@ Below is the procedure to work the Graphite Furnace setting of the Aligent UltrA
 ## Method Set Up
 1. 
 
-## Instument Alignment
-1. Adjust the light intesity by removing the autosampler/middle case to expose a double knob.
-2. Pull up the light intesity monitor on the AligentAA software to reach the maximum intesity possible to reaach the sample
+## Instrument Alignment
+1. Adjust the light intensity by removing the autosampler/middle case to expose a double knob.
+2. Pull up the light intensity monitor on the AligentAA software to reach the maximum intesity possible to reaach the sample
  	a. To move the compartment deeper in into the instrument or out away from the back of the instrument turn the outer knob.
 	b. To move the compartment up or down in the space turn the littler knob that sticks out of the knob as a whole.
   
