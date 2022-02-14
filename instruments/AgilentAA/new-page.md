@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-14T22:19:09.477Z
+date: 2022-02-14T22:20:47.456Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -17,14 +17,21 @@ Below is the procedure to work the Graphite Furnace setting of the Aligent UltrA
 4. For Furnace mode, be sure Furnace is selected in the first pop-up box, select your desired element matrix, and hit 'Ok'.![screenshot_(9).png](/chem322/figures/screenshot_(9).png)
 5. Next, select 'Edit Methods...'. This is where you can edit each parameter to get the best analyte signal.
 	a. The first tab labeled 'Type/Mode' is where you can check that you have selected the right element and furnace mode.![screenshot_(18).png](/chem322/figures/screenshot_(18).png)
+ 
   b. The second tab labeled 'Measurement' is where you can select your calibration mode. The most often used is concentration or standard addition.![screenshot_(19).png](/chem322/figures/screenshot_(19).png)
+  
   c. The third tab labeled 'Optical' is where you can type in what your desired wavelength and slit width is.![screenshot_(20).png](/chem322/figures/screenshot_(20).png)
+  
   d. The fourth tab labeled 'Furnace' is where you can edit the furnace program to ideal parameters. 
   **NOTE** - To make sure the instrument is reading exactly what you want it to, have the 'Read Steps (R)' be at the optimum temperatures for atomization. The 'Store Signals (S)' should start one step before and after the Read Steps (R).![screenshot_(21).png](/chem322/figures/screenshot_(21).png)
+  
   e. The fifth tab labeled 'Standards' is where you can enter your desired concentration steps for the instrument to do for you.![screenshot_(22).png](/chem322/figures/screenshot_(22).png)
+  
   f. The sixth tab labeled 'Calibration' is for you to select what kind of curve you want the instrument to produce, most common is linear. ![screenshot_(23).png](/chem322/figures/screenshot_(23).png)
+  
   g. The seventh tab labeled 'Sampler' is where you align the instrument with what you put into the sampler. You can enter the numbered position for your analyte, modifier, etc. The sample volume should be entered. The instrument will also show you the concentration dilutions it calculated with the 'Update Method Concs...' button.  
   **NOTE** - The rest of the tabs in the method editor can be disregarded unless you would like to enter experiment notes. ![screenshot_(24).png](/chem322/figures/screenshot_(24).png)
+  
 6. Click 'Ok' when done editing the method. 
   ## Instrument Alignment
 1. Adjust the light intensity by removing the autosampler/middle case to expose a double knob.
