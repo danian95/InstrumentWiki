@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-14T22:22:45.038Z
+date: 2022-02-14T22:23:48.321Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -31,8 +31,8 @@ Below is the procedure to work the Graphite Furnace setting of the Aligent UltrA
   **NOTE** - To make sure the instrument is reading exactly what you want it to, have the 'Read Steps (R)' be at the optimum temperatures for atomization. The 'Store Signals (S)' should start one step before and after the Read Steps (R).
   ![screenshot_(21).png](/chem322/figures/screenshot_(21).png)
   
-  e. The fifth tab labeled 'Standards' is where you can enter your desired concentration steps for the instrument to do for you.!
-  [screenshot_(22).png](/chem322/figures/screenshot_(22).png)
+  e. The fifth tab labeled 'Standards' is where you can enter your desired concentration steps for the instrument to do for you.
+  ![screenshot_(22).png](/chem322/figures/screenshot_(22).png)
   
   f. The sixth tab labeled 'Calibration' is for you to select what kind of curve you want the instrument to produce, most common is linear.
   ![screenshot_(23).png](/chem322/figures/screenshot_(23).png)
