@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-12T19:40:28.719Z
+date: 2022-02-14T19:45:44.063Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -11,7 +11,11 @@ dateCreated: 2022-02-12T17:32:12.582Z
 # Aligent UltrAA Graphite Furnace
 Below is the procedure to work the Graphite Furnace setting of the Aligent UltrAA Instrument using Furnace Mode.
 ## Method Set Up
-1. 
+1. Open the SpectrAA software.![screenshot_(5).png](/chem322/figures/screenshot_(5).png)
+2. Select 'Worksheet', then 'New...' to create a new method from scratch.
+3. To begin creating a new method, select 'Add methods...'
+4. For Furnace mode, be sure Furnace is selected in the first pop-up box, select your desired element matrix, and hit 'Ok'.![screenshot_(9).png](/chem322/figures/screenshot_(9).png)
+5. Next, select 'Edit Methods...'. 
 
 ## Instrument Alignment
 1. Adjust the light intensity by removing the autosampler/middle case to expose a double knob.
