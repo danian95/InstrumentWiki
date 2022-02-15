@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-15T13:51:33.115Z
+date: 2022-02-15T13:54:18.080Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -74,5 +74,10 @@ The casings should be sterilized using concentrated strong nitrous acid, rinsed 
 - The standard solution should be placed in the “Standard/Reslope” compartment
 - Any Modification solutions should be placed in the “Mod/QCP” compartment.
 - The sample should be placed in “sample compartment 1”
-#### NOTE - After the Method, Instrument Alignment, and Autosampler are prepared the instrument runs automatically. Once the run is complete, the intrument will turn off automatically. Data can be collected the following day.
+---
+> NOTE - After the Method, Instrument Alignment, and Autosampler are prepared the instrument runs automatically. Once the run is complete, the intrument will turn off automatically. Data can be collected the following day.
+{.is-info}
+
+
+
 
