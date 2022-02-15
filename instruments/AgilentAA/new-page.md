@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-15T13:51:12.246Z
+date: 2022-02-15T13:51:33.115Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
