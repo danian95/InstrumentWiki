@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-15T13:54:18.080Z
+date: 2022-02-15T14:00:18.779Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -69,10 +69,10 @@ Below is the procedure to work the Graphite Furnace setting of the Aligent UltrA
  11. After this is complete lock the autosampler in place by twisting the bottom knob on the instrument. 
  12. Press okay and the instrument alignment is complete.
  ## Autosampler Solutions Set-Up
-The casings should be sterilized using concentrated strong nitrous acid, rinsed with DI water, and dried before use.
-- The solute used to dissolve the sample should be placed in the “Make-Up” compartment
-- The standard solution should be placed in the “Standard/Reslope” compartment
-- Any Modification solutions should be placed in the “Mod/QCP” compartment.
+The casings should be cleaned with concentrated nitrous acid, rinsed with DI water, and dried before use.
+- The solvent used to dissolve the sample should be placed in the “Make-Up” compartment.
+- The standard solution should be placed in the “Standard/Reslope” compartment.
+- Any Modification solutions should be placed in the “Mod/QCP” compartments.
 - The sample should be placed in “sample compartment 1”
 ---
 > NOTE - After the Method, Instrument Alignment, and Autosampler are prepared the instrument runs automatically. Once the run is complete, the intrument will turn off automatically. Data can be collected the following day.
