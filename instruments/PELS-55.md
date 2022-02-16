@@ -1,8 +1,8 @@
 ---
-title: PE LS - 55 Fluorimeter: Tucker and Julie
+title: PE LS-55 Fluorimeter
 description: 
 published: true
-date: 2022-02-09T03:31:50.588Z
+date: 2022-02-16T15:08:18.828Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-09T02:55:29.570Z
