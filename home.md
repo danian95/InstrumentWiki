@@ -2,7 +2,7 @@
 title: Bloomsburg University Chemistry and Biochemistry Instrument Wiki
 description: Policies, procedures, and information about instruments housed in the Bloomsburg University Department of Chemistry and Biochemistry
 published: true
-date: 2022-01-14T21:01:28.698Z
+date: 2022-02-16T15:26:14.852Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-13T18:39:33.330Z
@@ -13,6 +13,10 @@ This wiki is a collection of the shared instrumentation available to Bloomsburg 
 
 > This wiki is a **work in progress**. During the Spring 2022 semester, students enrolled in CHEM322: Instrumental Analytical Chemistry will be adding details to the instrument pages as they work in the laboratory.
 {.is-info}
+
+- [Instrumentation *Housed in the Department of Chemistry and Biochemistry*](/instruments)
+- [Portable Instrumentation *Used in classes for quick analysis*](/portable)
+{.links-list}
 
 ## Relevant Links
 
