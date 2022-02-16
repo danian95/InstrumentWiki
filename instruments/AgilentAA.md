@@ -2,7 +2,7 @@
 title: Agilent UltrAA
 description: AA spectrometer capable of both flame and furnace analysis
 published: true
-date: 2022-02-16T14:59:14.320Z
+date: 2022-02-16T14:59:47.012Z
 tags: spectroscopy, atomic absorption
 editor: markdown
 dateCreated: 2022-01-19T15:39:01.767Z
@@ -13,7 +13,7 @@ dateCreated: 2022-01-19T15:39:01.767Z
 
 # Modes of Operation
 
-- [:fire: Flame]()
+- [:fire: Flame](/instruments/AgilentAA/Flame)
 - [:zap: Graphite Furnace](/instruments/AgilentAA/GraphiteFurnace)
 {.links-list}
 
