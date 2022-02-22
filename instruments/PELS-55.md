@@ -2,7 +2,7 @@
 title: PE LS-55 Fluorimeter
 description: 
 published: true
-date: 2022-02-16T15:08:18.828Z
+date: 2022-02-22T02:55:46.265Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-09T02:55:29.570Z
@@ -17,7 +17,8 @@ A fluorimeter measures the fluorescence or light emitted by different fluorescin
 
 ### Procedure
 
- 1. Make sure the instrument is turned on. Make your way through the trecherous journey behind the machines as the switch is in the back right corner. 
+ 1. Make sure the instrument is turned on. Make your way through the trecherous journey behind the machines as the switch is in the back right corner.
+ 		(You can also reach the switch from the front, on the left side when facing the instrument)
  2. Turn on the monitor for the corresponding computer and log in with password "Springchem2020" if needed.
  3. Open BLDevelopment
  4. Click the New Method icon.
