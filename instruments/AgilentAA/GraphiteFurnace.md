@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-22T19:16:52.520Z
+date: 2022-02-22T19:52:21.975Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -48,6 +48,8 @@ Below is the procedure to work the Graphite Furnace setting of the Aligent UltrA
 1. Adjust the light intensity by removing the autosampler/middle case to expose a double knob.
 
 You can open up the light intensity option by clicking on "Furnace Facilities" on the top portion of the software, above "analysis" below "help" and 2nd to last section of icons
+Or
+Click "Optomize" on the left panel of the window and you can adjust the lamp and the autosampler through this manner.
 
 2. Pull up the light intensity monitor on the AligentAA software to reach the maximum intensity possible to reaach the sample
  	a. To move the compartment deeper in into the instrument or out away from the back of the instrument turn the outer knob.
