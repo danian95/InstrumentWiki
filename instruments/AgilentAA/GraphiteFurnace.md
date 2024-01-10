@@ -2,7 +2,7 @@
 title: Agilent UltrAA Graphite Furnace
 description: 
 published: true
-date: 2022-02-22T19:52:21.975Z
+date: 2022-04-24T00:47:17.841Z
 tags: atomic absorption, graphite furnace
 editor: markdown
 dateCreated: 2022-02-12T17:32:12.582Z
@@ -10,6 +10,9 @@ dateCreated: 2022-02-12T17:32:12.582Z
 
 # Agilent UltrAA Graphite Furnace
 Below is the procedure to work the Graphite Furnace setting of the Aligent UltrAA Instrument using Furnace Mode.
+
+## Furnace AA Spec
+Graphite Furnace Atomic Absorption Spectrometer suitable for trace and ultra-trace metallic elements test, covering over 60 elements. It is highly sensitive, with low limit of detection and less sample volume, especially suitable for testing Cd, Cr, Pb, Al, Mo, etc.Graphite Furnace analysis times are longer than those for Flame sampling, and fewer elements can be determined using GFAA. However, the enhanced sensitivity of GFAA, and its ability to analyze very small samples, significantly expands the capabilities of atomic absorption.
 ## Method Set Up
 1. Open the SpectrAA software.
 ![screenshot_(5).png](/chem322/figures/screenshot_(5).png)
@@ -52,8 +55,9 @@ Or
 Click "Optomize" on the left panel of the window and you can adjust the lamp and the autosampler through this manner.
 
 2. Pull up the light intensity monitor on the AligentAA software to reach the maximum intensity possible to reaach the sample
- 	a. To move the compartment deeper in into the instrument or out away from the back of the instrument turn the outer knob.
-	b. To move the compartment up or down in the space turn the littler knob that sticks out of the knob as a whole.
+	a. The light source can be adjusted by opening the right most compartment and repositioning the lamp until a maximum intensity is registered. 
+ 	b. To move the compartment deeper in into the instrument or out away from the back of the instrument turn the outer knob.
+	c. To move the compartment up or down in the space turn the little knob that sticks out of the knob as a whole.
   
 **NOTE** - You may press the rescale button to rescale the intensity to 1 if the intesity is over the value of 1. ![screenshot_(1).png](/chem322/figures/screenshot_(1).png)
 
@@ -65,7 +69,7 @@ Click "Optomize" on the left panel of the window and you can adjust the lamp and
   c. Tighten the tan plastic knob
  6. Press okay and the arm will move to the furnace where it will disperse the solution it uptakes.
  7. Adjust the arm to fit into the opening of the furnace using the knobs on the autosampler. 
- 	a. Use the knob of the right to allow the arm to move into the instrument or back out of the instrument.
+ 	a. Use the knob on the right to move the arm into the instrument or back out of the instrument.
   b. Use the knob on the front of the autosampler to move the arm to the left and right 
  
  **NOTE** - You need to be able to see the opening to get the tube into the opening so feel free to use the step stool if not tall enough to see it to begin with 
@@ -79,7 +83,8 @@ Click "Optomize" on the left panel of the window and you can adjust the lamp and
 The casings should be cleaned with concentrated nitrous acid, rinsed with DI water, and dried before use.
 - The solvent used to dissolve the sample should be placed in the “Make-Up” compartment.
 - The standard solution should be placed in the “Standard/Reslope” compartment.
-- Any Modification solutions should be placed in the “Mod/QCP” compartments.
+- Any modifier solutions should be placed in the “Mod/QCP” compartments.
+				*Modifier solutions stabilize volatile analytes at high temps., increase the volatility of the analyte during atomization, and cause matrix contaminants to atomize during the ashing stage. Always use your chemical modifier. 
 - The sample should be placed in “sample compartment 1”
 ---
 > NOTE - After the Method, Instrument Alignment, and Autosampler are prepared the instrument runs automatically. Once the run is complete, the intrument will turn off automatically. Data can be collected the following day.

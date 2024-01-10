@@ -2,7 +2,7 @@
 title: Bloomsburg University Chemistry and Biochemistry Instrument Wiki
 description: Policies, procedures, and information about instruments housed in the Bloomsburg University Department of Chemistry and Biochemistry
 published: true
-date: 2022-02-16T15:26:14.852Z
+date: 2022-02-16T15:26:17.902Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-13T18:39:33.330Z

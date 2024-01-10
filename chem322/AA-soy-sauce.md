@@ -2,7 +2,7 @@
 title: Determination of Lead in Soy Sauce using GFAAS
 description: 
 published: true
-date: 2022-02-08T15:55:04.801Z
+date: 2022-02-08T15:55:09.756Z
 tags: atomic absorption, chem322, graphite furnace
 editor: markdown
 dateCreated: 2022-02-08T15:55:04.801Z

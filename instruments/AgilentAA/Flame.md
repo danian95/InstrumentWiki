@@ -2,11 +2,14 @@
 title: Agilent AA Flame Operation
 description: 
 published: true
-date: 2022-02-16T15:09:55.093Z
+date: 2022-04-24T00:47:52.154Z
 tags: atomic absorption, flame
 editor: markdown
 dateCreated: 2022-02-16T15:09:55.093Z
 ---
+
+## Flame AA 
+Flame atomic absorption is a very common technique for detecting metals and metalloids in environmental samples. It is very reliable and simple to use. With the Flame AA, the sample atomization occurs when a liquid sample is drawn into a flame.
 
 ## Familiarization
 
@@ -16,11 +19,13 @@ dateCreated: 2022-02-16T15:09:55.093Z
  2. Open the SpectrAA software.
  3. Click Worksheet.
  4. Click New from...
- 5. Select Pb demo and git it a new name that I can easily find and delete later.
+ 5. Select Pb demo and give it a new name that I can easily find and delete later.
  6. Click Start on the left of the screen.
  7. The instrument will tell you to ignite the flame. Hold down the flame button on the AA until it ignites.
  8. Insert the tubing into the beaker labeled "DI Water" and run the zero.
  9. Swap the tubing for the appropriate standards (1 = 1 ppm, 2 = 3 ppm, 3 = 5 ppm) as prompted by the computer. Click "Read" when ready to read the standard.
+ 				
+       *Ensure the tubing remains secured in the sample for the entire run. You will need to repeat the run if the tubing drops out of the beaker during the analysis. 
 10. Make sure to watch the flame for this one! "Present" (as in put the tube in the Erlenmeyer flask) the Pb paint sample.
 11. Once the run is complete, the flame with automatically shut off. Enjoy the pleasant music from the PC indicating that the run is complete.
 12. Close the software and turn off the instrument when you are finished with the questions below.

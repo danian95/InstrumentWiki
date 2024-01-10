@@ -2,7 +2,7 @@
 title: Instrumentation
 description: Instrumentation housed in the Chemistry and Biochemistry Department at Bloomsburg University
 published: true
-date: 2022-02-16T15:21:33.072Z
+date: 2022-02-16T15:21:35.889Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-16T15:21:33.072Z

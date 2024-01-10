@@ -2,7 +2,7 @@
 title: Thermo Finnigan Surveyor HPLC
 description: 
 published: true
-date: 2022-01-30T16:57:02.352Z
+date: 2022-02-02T20:55:01.630Z
 tags: chromatography, hplc, liquid chromatography
 editor: markdown
 dateCreated: 2022-01-19T15:38:08.495Z

@@ -2,7 +2,7 @@
 title: Fluorescence Spectroscopy
 description: Experimental information for CHEM322
 published: true
-date: 2022-02-03T17:20:48.267Z
+date: 2022-02-03T17:23:56.417Z
 tags: spectroscopy, fluorescence, chem322
 editor: markdown
 dateCreated: 2022-02-03T17:09:55.946Z

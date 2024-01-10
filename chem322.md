@@ -2,7 +2,7 @@
 title: Instrumental Analytical Chemistry
 description: CHEM322 Lab Manual
 published: true
-date: 2022-02-09T18:31:39.713Z
+date: 2022-02-25T18:29:01.484Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-09T18:31:39.713Z
